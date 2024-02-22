@@ -20,6 +20,3 @@ Neste projeto de estudo, exploramos os fundamentos da classificação de dados, 
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs, ou novos recursos.
-
-## Licença
-Este projeto é distribuído sob a licença [MIT](LICENSE).
